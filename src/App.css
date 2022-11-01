@@ -1,9 +1,10 @@
 .App {
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     background-color: #3c3c3c;
     color: #fff;
+    padding: 30px;
+}
+
+h6 {
+    margin-bottom: 5px !important;
 }
